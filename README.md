@@ -40,7 +40,7 @@ Clonar projecto
 Ir al directorio del proyecto
 
 ```bash
-  cd tareagrupo7-quiz.github.io
+  cd React-Fundamentos-Certificacion
 ```
 
 Instalar dependencias
