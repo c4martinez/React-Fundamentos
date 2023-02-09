@@ -1,7 +1,7 @@
 # React-Fundamentos-Certificacion
 
 
-## Authors
+## Author
 
 - Carlos Martínez [@c4martinez](https://www.github.com/c4martinez)
 
@@ -26,7 +26,7 @@ El proyecto final es libre, por tanto, deben conectarse a una api con total libe
 ## Demo
 
 Puedes probar este proyecto desde el siguiente enlace
-https://lubarrolleta.github.io/tareagrupo7-quiz.github.io/
+https://github.com/c4martinez/React-Fundamentos-Certificacion.git
 
 
 ## Ejecutar en Local
@@ -34,7 +34,7 @@ https://lubarrolleta.github.io/tareagrupo7-quiz.github.io/
 Clonar projecto
 
 ```bash
-  git clone https://github.com/lubarrolleta/tareagrupo7-quiz.github.io.git
+  git clone https://github.com/c4martinez/React-Fundamentos-Certificacion.git
 ```
 
 Ir al directorio del proyecto
