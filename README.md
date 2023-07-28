@@ -26,7 +26,7 @@ El proyecto final es libre, por tanto, deben conectarse a una api con total libe
 ## Demo
 
 Puedes probar este proyecto desde el siguiente enlace
-https://github.com/c4martinez/React-Fundamentos-Certificacion.git
+https://react-fundamentals-certification.vercel.app/
 
 
 ## Ejecutar en Local
